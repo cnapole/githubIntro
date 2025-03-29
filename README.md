@@ -1,1 +1,1 @@
-#GitHub Intro Course
+#GitHub Intro Course for students
